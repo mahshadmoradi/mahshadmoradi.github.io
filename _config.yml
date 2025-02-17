@@ -120,7 +120,7 @@ staticman:
 atom_feed:
   hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : blank # blank (default) uses feed.xml
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=6cfCW0TCKYxxd_7KsmFw3orHbpILt7sWgzSVl3L_3hY"></script>
+  
 
 
 # SEO Related
