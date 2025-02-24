@@ -1,64 +1,22 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Personal"
+permalink: /personal/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+Beyond my academic and research interests, I have a deep passion for the arts, sports, and adventure.  
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### 🎶 Music & Creativity  
+I play the **Handpan**, an instrument that allows me to express emotions through its mesmerizing and meditative sound. Music is my way of unwinding and connecting with the present moment.  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### 🥋 Martial Arts  
+I hold a **2nd Dan black belt in Taekwondo**, a discipline that has shaped my perseverance, discipline, and mindset. The balance between physical training and mental focus is something I deeply value.  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### 🎨 Painting & Artistic Expression  
+Painting is another creative outlet I enjoy, allowing me to explore colors, emotions, and perspectives beyond words. Whether through abstract strokes or detailed sketches, I find art to be a powerful form of storytelling.  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### ✈️ Traveling & Exploration  
+I love **traveling**—exploring different places, cultures, lives, and stories. Whether it's wandering through ancient cities, experiencing diverse traditions, or meeting new people, I find immense joy in discovering the world's endless wonders.  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
