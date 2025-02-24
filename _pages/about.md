@@ -11,7 +11,7 @@ redirect_from:
 
 ### Hello World!  
 
-I am **Mahshad Moradi**, a fourth-year **B.Sc. student** at **Sharif University of Technology**, Department of **Electrical Engineering**.  
+I am Mahshad Moradi, a fourth-year B.Sc. student at Sharif University of Technology, Department of Electrical Engineering.  
 
 ---
 
