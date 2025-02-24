@@ -7,19 +7,19 @@ redirect_from:
   - /about.html
 ---
 > 🚧 **Website Under Construction** 🚧  
-> This website is currently being updated. Some sections may be incomplete or subject to change. Stay tuned!
+> This website is currently being updated. Some sections may be incomplete or subject to change.
 
-## Hello World!  
+### Hello World!  
 
 I am **Mahshad Moradi**, a fourth-year **B.Sc. student** at **Sharif University of Technology**, Department of **Electrical Engineering**.  
 
 ---
 
-## Research Interests  
+### Research Interests  
 
 My research interests include, but are not limited to:  
 
-- **Machine Learning**  
-- **Reinforcement Learning**  
-- **Optimization**  
-- **Decision-Making**  
+- Machine Learning
+- Reinforcement Learning 
+- Optimization  
+- Decision-Making
