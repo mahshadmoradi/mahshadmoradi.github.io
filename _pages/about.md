@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 > 🚧 **Website Under Construction** 🚧  
-> This website is currently being updated. Some sections may be incomplete or subject to change.
+> My website is currently being updated. Some sections may be incomplete or subject to change.
 
 ### Hello World!  
 
