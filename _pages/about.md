@@ -9,9 +9,13 @@ redirect_from:
 Hellow World!
 I am Mahshad Moradi, a fourth-year B.Sc. student at Sharif University of Technology, department of Electrical Engineering.
 
-About me
+Research Interests
 ------
-hsbhjb
+Including but not limited to:
+Machine Learning
+Reinforcement Learning 
+Optimization 
+Decision-making 
 
 About me
 ------
