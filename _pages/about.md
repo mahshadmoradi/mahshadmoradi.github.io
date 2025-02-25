@@ -19,7 +19,7 @@ I am Mahshad Moradi, a fourth-year B.Sc. student at [Sharif University of Techno
 
 My research interests include, but are not limited to:  
 
-- Machine Learning
+- Optimization
 - Reinforcement Learning 
-- Optimization  
+- Machine Learning
 - (Quantum) Information Theory 
