@@ -22,4 +22,4 @@ My research interests include, but are not limited to:
 - Machine Learning
 - Reinforcement Learning 
 - Optimization  
-- Decision-Making
+- (Quantum) Information Theory 
