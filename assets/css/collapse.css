@@ -6,7 +6,8 @@
     width:100%;
 }
 .container .header {
-    background-color:#d3d3d3;
+    background-color: #333333;  /* Dark gray instead of light gray (#d3d3d3) */
+    color: #ffffff;             /* White text for contrast */
     padding: 2px;
     cursor: pointer;
     font-weight: bold;
