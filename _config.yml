@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Electrical Engineering graduate"
   location         : "Tehran, Iran"
-  employer         : "Sharif University of Technology"
+  employer         : #"Sharif University of Technology"
   uri              : # URL
   email            : "mahshadmoradix@gmail.com" 
 
