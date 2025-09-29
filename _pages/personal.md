@@ -5,4 +5,4 @@ permalink: /personal/
 author_profile: true
 ---
 
-I play the handpan, have a 2nd Dan in Taekwondo, and enjoy painting. I also love traveling and exploring new places and cultures.
+Outside of academics, I enjoy exploring creative and physical pursuits. Recently, I’ve begun learning **aerial dance** and playing the **handpan**. I also hold a **2nd Dan black belt in Taekwondo** and used to spend time painting. Beyond that, I love **traveling** and discovering new places, cultures, and perspectives.  
