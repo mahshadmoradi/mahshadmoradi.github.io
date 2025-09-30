@@ -75,17 +75,16 @@
 /*
    Author profile and links
    ========================================================================== */
-
 .author__avatar {
-  display: block;      // table-cell not needed here
-  width: auto;         // let image size control width
-  height: auto;        // remove the 40px cap
-  text-align: center;  // optional, centers image if needed
+  display: block;   // no need for table-cell
+  width: auto;      // let the image define size
+  height: auto;
 
   img {
-    width: 250px;      // set your desired size
-    height: auto;      // keep aspect ratio
-    border-radius: 0;  // rectangle (remove circle crop)
+    width: 200px; 
+    height: 200px; 
+    border-radius: 50%;
+    object-fit: cover;  
   }
 }
 // .author__avatar {
