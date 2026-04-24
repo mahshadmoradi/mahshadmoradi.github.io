@@ -1,4 +1,5 @@
 ---
+permalink: /
 title: ""
 author_profile: true
 redirect_from: 
@@ -22,4 +23,4 @@ I am currently drawn to questions in:
 ---
 
 ### News
-Nothing here yet, but stay tuned!
+    Nothing here yet, but stay tuned!
