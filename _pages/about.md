@@ -23,4 +23,4 @@ I am currently drawn to questions in:
 ---
 
 ### News
-    Nothing here yet, but stay tuned!
+_No updates yet, but stay tuned!_
