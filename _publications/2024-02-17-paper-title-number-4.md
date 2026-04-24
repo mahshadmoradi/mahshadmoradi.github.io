@@ -1,7 +1,7 @@
 ---
 title: "Exact Combinatorial Multi-Class Graph Cuts for Semi-Supervised Learning"
 collection: publications
-authors: "Mohammad Mahdi Omati, Yasin Salajeghe, Mahshad Moradi, Arash Amini"
+authors: "Mohammad Mahdi Omati, Yasin Salajeghe, **Mahshad Moradi**, Arash Amini"
 venue: "AAAI Conference on Artificial Intelligence (AAAI), 2026"
 image: "/images/publications/paper2.png"
 paperurl: "/files/paper2.pdf"
