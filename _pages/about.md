@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: ""
 author_profile: true
 redirect_from: 
@@ -9,7 +8,7 @@ redirect_from:
 
 ## Hello World!  
 
-I received my B.Sc. in Electrical Engineering from [Sharif University of Technology](https://en.sharif.ir). During my undergraduate studies, I interned at [EPFL](https://www.epfl.ch/en/) and had the privilege of being mentored by [Prof. Arash Amini](https://scholar.google.com/citations?hl=en&user=3ekS0ucAAAAJ&view_op=list_works&sortby=pubdate).
+I received my B.Sc. in Electrical Engineering from [Sharif University of Technology](https://en.sharif.ir). During my undergraduate studies, I interned at [EPFL](https://www.epfl.ch/en/) and was fortunate to be mentored by [Prof. Arash Amini](https://scholar.google.com/citations?hl=en&user=3ekS0ucAAAAJ&view_op=list_works&sortby=pubdate).
 
 ---
 
