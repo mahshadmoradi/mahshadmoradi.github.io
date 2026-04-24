@@ -1,7 +1,7 @@
 ---
 title: "Multi-armed Bandits with Missing Outcomes"
 collection: publications
-authors: "Ilia Mahrooghi, *Mahshad Moradi*, Sina Akbari, Negar Kiyavash"
+authors: "Ilia Mahrooghi, **Mahshad Moradi**, Sina Akbari, Negar Kiyavash"
 venue: "Conference on Uncertainty in Artificial Intelligence (UAI), 2025"
 image: "/images/publications/paper1.png"
 paperurl: "/files/paper1.pdf"
