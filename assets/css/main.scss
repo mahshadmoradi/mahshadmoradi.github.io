@@ -40,3 +40,45 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+
+.publication-item {
+  display: flex;
+  gap: 1.2rem;
+  margin-bottom: 2rem;
+  align-items: flex-start;
+}
+
+.publication-image img {
+  width: 160px;
+  max-width: 160px;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+.publication-content {
+  flex: 1;
+}
+
+.publication-title {
+  margin-top: 0;
+  margin-bottom: 0.3rem;
+  font-size: 1.05rem;
+}
+
+.publication-authors {
+  margin: 0.2rem 0;
+}
+
+.publication-venue {
+  margin: 0.2rem 0;
+  color: #555;
+}
+
+.publication-links {
+  margin-top: 0.4rem;
+}
+
+.publication-links a {
+  margin-right: 0.4rem;
+}
