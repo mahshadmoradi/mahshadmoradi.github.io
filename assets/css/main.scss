@@ -53,10 +53,9 @@
 }
 
 .publication-image img {
-  width: 160px;
-  max-width: 160px;
-  border-radius: 6px;
-  object-fit: cover;
+  max-height: 120px;
+  width: auto;
+  object-fit: contain;
 }
 
 .publication-content {
