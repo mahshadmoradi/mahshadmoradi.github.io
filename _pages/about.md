@@ -22,4 +22,4 @@ I am currently drawn to questions in:
 ---
 
 ### News
-No updates yet, but stay tuned!
+_No updates yet, but stay tuned_
