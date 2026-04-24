@@ -53,9 +53,9 @@
 }
 
 .publication-image img {
-  max-height: 120px;
-  width: auto;
-  object-fit: contain;
+  height: 120px;
+  width: 180px;
+  object-fit: cover;
 }
 
 .publication-content {
