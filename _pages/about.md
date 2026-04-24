@@ -14,7 +14,6 @@ I received my B.Sc. in Electrical Engineering from [Sharif University of Technol
 ---
 
 ### Research Interests  
-
 I am currently drawn to questions in:
 - Optimization
 - Learning Theory
@@ -23,4 +22,4 @@ I am currently drawn to questions in:
 ---
 
 ### News
-_No updates yet, but stay tuned!_
+No updates yet, but stay tuned!
