@@ -5,4 +5,4 @@ permalink: /Miscellaneous/
 author_profile: true
 ---
 
-I like exploring new hobbies and experiences alongside my academic work. Recently, I started learning aerial dance and playing the handpan. I also have a 2nd Dan black belt in Taekwondo, and I used to spend time painting. I love traveling as well, especially discovering new places, cultures, and perspectives.
+Outside academics, I enjoy exploring new hobbies and experiences. Recently, I started learning aerial dance and playing the handpan. I also hold a black belt (2nd Dan) in Taekwondo and have spent time painting. I love traveling, especially discovering new places, cultures, and perspectives.
